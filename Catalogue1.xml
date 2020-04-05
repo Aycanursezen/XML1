@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+
+		<book>
+			<id>01</id>
+			<title>Hayvan Çiftliği</title>
+			<author>George Orwell</author>
+			<publisher>Can Yayınları</publisher>
+			<isbn>9789750719387</isbn>
+			<date>2001</date>
+			<price>14.00 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.dr.com.tr/Kitap/Hayvan-Ciftligi/Edebiyat/Roman/Dunya-Roman/urunno=0000000105409#</url>
+	</book>
+		<book>
+			<id>02</id>
+			<title>Fahrenheit 451</title>
+			<author>Ray Bradbury</author>
+			<publisher>İthaki Yayınları</publisher>
+			<isbn>9786053757818</isbn>
+			<date>2018</date>
+			<price>17.40 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.dr.com.tr/Kitap/Fahrenheit-451/Ray-Bradbury/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001</url>
+	</book>	
+		<book>
+			<id>03</id>
+			<title>Simyacı</title>
+			<author>Paulo Coelho</author>
+			<publisher>Can Yayınları</publisher>
+			<isbn>9789750726439</isbn>
+			<date>2010</date>
+			<price>16,45 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.dr.com.tr/Kitap/Simyaci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064552</url>
+	</book>
+		<book>
+			<id>04</id>
+			<title>Uçurtma Avcısı</title>
+			<author>Khaled Hosseini</author>
+			<publisher>Everest Yayınları</publisher>
+			<isbn>9789752891456</isbn>
+			<date>2004</date>
+			<price>26,13 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.dr.com.tr/Kitap/Ucurtma-Avcisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000153127</url>
+	</book>
+		<book>
+			<id>05</id>
+			<title>Şeker Portakalı</title>
+			<author>Jose Mauro De Vasconcelos</author>
+			<publisher>Can Çocuk Yayınları</publisher>
+			<isbn>9789750738609</isbn>
+			<date>2000</date>
+			<price>16,45 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.dr.com.tr/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031</url>
+	</book>
+		<book>
+			<id>06</id>
+			<title>Olağan Üstü Bir Gece</title>
+			<author>Stefan Zweig</author>
+			<publisher>İş Bankası Kültür Yayınlar</publisher>
+			<isbn>9786053326090</isbn>
+			<date>2015</date>
+			<price>4.80 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Olaganustu-Bir-Gece/Edebiyat/Roman/Dunya-Roman/urunno=0000000671636</url>
+	</book>
+		<book>
+			<id>07</id>
+			<title>İçimizdeki Şeytan</title>
+			<author>Sabahattin Ali</author>
+			<publisher>Yapı Kredi Yayınları</publisher>
+			<isbn>9789753638036</isbn>
+			<date>2016</date>
+			<price>6.18 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Icimizdeki-Seytan/Edebiyat/Roman/Turkiye-Roman/urunno=0000000058246</url>
+	</book>
+		<book>
+			<id>08</id>
+			<title>Tutunamayanlar</title>
+			<author>Oğuz Atay</author>
+			<publisher>İletişim Yayıncılık</publisher>
+			<isbn>9789754700114</isbn>
+			<date>2000</date>
+			<price>37.80 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Tutunamayanlar-Butun-Eserleri-1/Oguz-Atay/Edebiyat/Roman/Turkiye-Roman/urunno=0000000061424</url>
+	</book>
+		<book>
+			<id>09</id>
+			<title>Yüzyıllık Yalnızlık</title>
+			<author>Gabriel Garcia Marquez</author>
+			<publisher>Can Yayınları</publisher>
+			<isbn>9789750719363</isbn>
+			<date>2016</date>
+			<price>27.30 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Yuzyillik-Yalnizlik/Edebiyat/Roman/Dunya-Roman/urunno=0000000064137</url>		
+	</book>
+		<book>
+			<id>10</id>
+			<title>Dönüşüm</title>
+			<author>Franz Kafka</author>
+			<publisher>İş Bankası Kültür Yayınları</publisher>
+			<isbn>9786053609322</isbn>
+			<date>2013</date>
+			<price>3.60 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Donusum/Edebiyat/Roman/Dunya-Roman/urunno=0000000561966</url>
+	</book>
+		<book>
+			<id>11</id>
+			<title>The Little Prince</title>
+			<author>Antoine de Saint-Exupery</author>
+			<publisher>Destek Yayınları</publisher>
+			<isbn>9786059913720</isbn>
+			<date>2015</date>
+			<price>9.45 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.dr.com.tr/Kitap/The-Little-Prince/Foreign-Languages/Children-And-Teen/Children/urunno=0000000645722</url>	
+	</book>
+		<book>
+			<id>12</id>
+			<title>The Girl On The Train</title>
+			<author>Paula Hawkins</author>
+			<publisher>Random House</publisher>
+			<isbn>9781784161101</isbn>
+			<date>2016</date>
+			<price>49.10 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.dr.com.tr/Kitap/The-Girl-On-The-Train/Foreign-Languages/Literature-And-Novel/Mysterycrimethriller/urunno=0000000691551</url>
+	</book>
+		<book>
+			<id>13</id>
+			<title>The Fault In Our Stars</title>
+			<author>John Green</author>
+			<publisher>Penguin Books</publisher>
+			<isbn>9780141345659</isbn>
+			<date>2013</date>
+			<price>59.43 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.dr.com.tr/Kitap/The-Fault-In-Our-Stars/John-Green/Foreign-Languages/Literature-and-Novel/Literature/urunno=0000000425452</url>
+	</book>
+		<book>
+			<id>14</id>
+			<title>Me Before You</title>
+			<author>Jojo Moyes</author>
+			<publisher>Penguin</publisher>
+			<isbn>9780241397916</isbn>
+			<date>2019</date>
+			<price>49.10 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.dr.com.tr/Kitap/Penguin-Readers-Level-4-Me-Before-You/Foreign-Languages/Literature-and-Novel/Literature/urunno=0001847471001</url>
+	</book>
+		<book>
+			<id>15</id>
+			<title>The Ottoman Empire And Europe</title>
+			<author>Halil İnalcık</author>
+			<publisher>Kronik Kitap</publisher>
+			<isbn>9786058301184</isbn>
+			<date>2017</date>
+			<price>31.20 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.dr.com.tr/Kitap/The-Ottoman-Empire-And-Europe/Halil-Inalcik/Foreign-Languages/History/History-Military/urunno=0001695451001</url>
+	</book>
+		<book>
+			<id>16</id>
+			<title>Harry Potter and the Goblet of Fire</title>
+			<author>J. K. Rowling</author>
+			<publisher>Bloomberg Press</publisher>
+			<isbn>9781526610324</isbn>
+			<date>2020</date>
+			<price>61.66 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.idefix.com/Kitap/Harry-Potter-and-the-Goblet-of-Fire-%E2%80%93-Ravenclaw-Edition-Harry-Potter-House-Editions-/Foreign-Languages/Literature-and-Novel/Sci-Fi-Fantasy/urunno=0001860749001</url>
+	</book>
+		<book>
+			<id>17</id>
+			<title>Romeo and Juliet</title>
+			<author>William Shakespeare</author>
+			<publisher>Dorlion Yayınevi</publisher>
+			<isbn>9786052491959</isbn>
+			<date>2019</date>
+			<price>6.50 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.idefix.com/Kitap/Romeo-and-Juliet/Foreign-Languages/Children-and-Teen/Children/urunno=0001796133001</url>
+	</book>
+		<book>
+			<id>18</id>
+			<title>The Psychology of Love</title>
+			<author>Sigmund Freud</author>
+			<publisher>Alter Yayınları</publisher>
+			<isbn>9786051911069</isbn>
+			<date>2019</date>
+			<price>7.56 Tl</price>
+			<language>İngilizce</language>
+			<url>https://www.idefix.com/Kitap/The-Psychology-of-Love/Sigmund-Freud/Foreign-Languages/Reference/Philosophy/urunno=0001841443001</url>
+	</book>
+		<book>
+			<id>19</id>
+			<title>Sineklerin Tanrısı</title>
+			<author>William Golding</author>
+			<publisher>İş Bankası Kültür Yayınları</publisher>
+			<isbn>9789754582901</isbn>
+			<date>2006</date>
+			<price>9.60 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/Sineklerin-Tanrisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800</url>
+	</book>
+		<book>
+			<id>20</id>
+			<title>1984</title>
+			<author>George Orwell</author>
+			<publisher>Can Yayınları</publisher>
+			<isbn> 9789750718533</isbn>
+			<date>2000</date>
+			<price>22.75 Tl</price>
+			<language>Türkçe</language>
+			<url>https://www.idefix.com/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038</url>
+	</book>
+	
+	
+</catalogue>
+	
